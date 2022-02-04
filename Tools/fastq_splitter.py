@@ -1,6 +1,6 @@
 #!usr/bin/env python3
 """
-Author: Joeri, Marieke
+Author: Ioannis,Joeri
 
 """
 # import statements
